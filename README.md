@@ -1,1 +1,1 @@
-# Image-registration-and-geometric-transformation-using-homography-matrix.
+# Image registration and-geometric transformation using homography matrix
